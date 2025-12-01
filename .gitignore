@@ -1,4 +1,4 @@
-.env
+src/01-elastic/.env
 .idea
 
 # Byte-compiled / optimized / DLL files
@@ -151,7 +151,7 @@ activemq-data/
 *.sage.py
 
 # Environments
-.env
+src/01-elastic/.env
 .envrc
 .venv
 env/
