@@ -13,10 +13,11 @@ slug: tools-landscape
 | Tool | Type | Official site |
 |---|---|---|
 | Claude Code | CLI / IDE agent | [🔗](https://www.claude.com/product/claude-code) |
+| Codex | IDE / desktop agent | [🔗](https://openai.com/codex/) |
 | Cursor | IDE (fork of VS Code) | [🔗](https://cursor.com) |
 | GitHub Copilot / Copilot Workspace | IDE extension | [🔗](https://github.com/features/copilot) |
 | Aider | CLI | [🔗](https://aider.chat) |
-| Windsurf** | IDE | [🔗](https://windsurf.com) |
+| Windsurf | IDE | [🔗](https://windsurf.com) |
 | Devin | Autonomous agent | [🔗](https://devin.ai) |
 | Conductor | IDE | [🔗](https://www.conductor.build/) |
 | superset.sh | IDE | [🔗](https://docs.superset.sh/) |
