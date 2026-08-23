@@ -1,4 +1,9 @@
+.claude/
+
+CLAUDE.md
+
 /public/
 /resources/
 .hugo_build.lock
 .DS_Store
+/_inbox/

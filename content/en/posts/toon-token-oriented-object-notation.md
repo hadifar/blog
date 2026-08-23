@@ -65,3 +65,8 @@ a non-standard notation like TOON might increase the risk of hallucinations.
 So while TOON is a clever optimization for specific use cases — especially cost-sensitive,
 flat-data applications — it's not a drop-in replacement for traditional serialization
 formats.
+
+## References
+
+- [GitHub — toon-format/toon](https://github.com/toon-format/toon)
+- [toonformat.dev](https://toonformat.dev/)

@@ -140,6 +140,9 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 
 markup:
+  goldmark:
+    renderer:
+      unsafe: true
   highlight:
     noClasses: false
     codeFences: true
