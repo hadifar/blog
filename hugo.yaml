@@ -67,20 +67,20 @@ languages:
           url: /search/
           weight: 50
 
-  fa:
-    languageName: "fa"
-    languageCode: fa-ir
-    languagedirection: rtl
-    weight: 2
-    contentDir: content/fa
-    params:
-      description: >-
-        وبلاگ شخصی امیر هادیفر درباره هوش مصنوعی، یادگیری ماشین، ایجنت‌ها، مدل‌های زبانی بزرگ
-        و توسعه نرم‌افزار ایجنتیک.
-      homeInfoParams:
-        Title: "کاوشگر هوش مصنوعی 🦭"
-        Content: >-
-          وبلاگ شخصی درباره هوش مصنوعی، یادگیری ماشین، ایجنت‌ها، مدل‌های زبانی بزرگ و توسعه نرم‌افزار.
+#  fa:
+#    languageName: "fa"
+#    languageCode: fa-ir
+#    languagedirection: rtl
+#    weight: 2
+#    contentDir: content/fa
+#    params:
+#      description: >-
+#        وبلاگ شخصی امیر هادیفر درباره هوش مصنوعی، یادگیری ماشین، ایجنت‌ها، مدل‌های زبانی بزرگ
+#        و توسعه نرم‌افزار ایجنتیک.
+#      homeInfoParams:
+#        Title: "کاوشگر هوش مصنوعی 🦭"
+#        Content: >-
+#          وبلاگ شخصی درباره هوش مصنوعی، یادگیری ماشین، ایجنت‌ها، مدل‌های زبانی بزرگ و توسعه نرم‌افزار.
   
 
 params:

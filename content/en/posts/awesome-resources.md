@@ -6,42 +6,17 @@ draft: false
 slug: awesome-resources
 ---
 
-A list of the courses, talks, guides, blogs, and articles I've found worth
-recommending or interesting. I'll keep adding to this over time — expand a section to see what's in it.
-
-## 🎓 Courses
-
-<details>
-<summary>Expand</summary>
-
+### 🎓 Courses
 - [The Modern Software Developer By Stanford (CS146S)](https://themodernsoftware.dev/)
 
-</details>
+### 📚 Books
+- [AI Engineering by Chip Huyen](https://huyenchip.com/books/)
 
-## 🎥 Talks & Videos
-
-<details>
-<summary>Expand</summary>
-
+### 🎥 Talks & Videos
 - [Tom Blomfield — "How to vibe code"](https://www.youtube.com/watch?v=BJjsfNO5JTo)
 - [Y Combinator — "Vibe Coding Is The Future"](https://www.youtube.com/watch?v=IACHfKmZMr8)
 
-</details>
-
-## 🧭 Guides & Best Practices
-
-<details>
-<summary>Expand</summary>
-
-_Nothing here yet — check back soon._
-
-</details>
-
-## 📚 Blogs
-
-<details>
-<summary>Expand</summary>
-
+### 📝 Blogs
 - [Simon Willison's Blog](https://simonwillison.net/)
 - [Anthropic Engineering Blog](https://www.anthropic.com/engineering)
 - [Lil'Log (Lilian Weng)](https://lilianweng.github.io/)
@@ -49,13 +24,8 @@ _Nothing here yet — check back soon._
 - [Sebastian Raschka's Magazine](https://magazine.sebastianraschka.com/)
 - [The Batch (DeepLearning.AI)](https://www.deeplearning.ai/the-batch)
 
-</details>
+### 🎓 Articles
+- [Famous Deep Learning Papers](https://papers.baulab.info/)
 
-## 📰 Articles
-
-<details>
-<summary>Expand</summary>
-
-_Nothing here yet — check back soon._
-
-</details>
+### 🪛 Good to know :)
+- [Explain bash](https://explainshell.com/)
