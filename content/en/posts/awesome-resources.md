@@ -18,11 +18,16 @@ slug: awesome-resources
 
 ### 📝 Blogs
 - [Simon Willison's Blog](https://simonwillison.net/)
-- [Anthropic Engineering Blog](https://www.anthropic.com/engineering)
 - [Lil'Log (Lilian Weng)](https://lilianweng.github.io/)
 - [Chip Huyen's Blog](https://huyenchip.com/)
 - [Sebastian Raschka's Magazine](https://magazine.sebastianraschka.com/)
+
 - [The Batch (DeepLearning.AI)](https://www.deeplearning.ai/the-batch)
+- [Anthropic Engineering Blog](https://www.anthropic.com/engineering)
+- [Engineering at Meta](https://engineering.fb.com/)
+- [Netflix Techblog](https://netflixtechblog.com/)
+- [Clouadflare blog](https://blog.cloudflare.com/)
+- [VLLM blog](https://vllm.ai/blog)
 
 ### 🎓 Articles
 - [Famous Deep Learning Papers](https://papers.baulab.info/)
