@@ -6,15 +6,15 @@ draft: false
 slug: what-is-ralph
 ---
 
-[ralph](https://github.com/snarktank/ralph) is [auto-research](https://github.com/karpathy/autoresearch)
-for software developers. Where autoresearch loops an agent over an open-ended research
-problem, ralph loops an agent over a fixed backlog of user stories — it's suited to
+[ralph](https://github.com/snarktank/ralph) is basically [auto-research](https://github.com/karpathy/autoresearch)
+for software development. Autoresearch loops an agent over an open-ended research
+problem, where ralph loops an agent over a fixed backlog of user stories. Ralph is suited to
 non-exploratory tasks where the goal (e.g. a set of user stories) is already defined and the
 acceptance criteria are already determined.
 
-## The loop
+## The ralph loop
 
-In the root directory you have three files:
+In the root directory you will provide three files:
 
 ```
 root
@@ -23,7 +23,7 @@ root
 └── ralph.sh     # the loop that drives it
 ```
 
-You ask your agent to build these, then run the loop:
+Then you run the following command:
 
 ```bash
 chmod +x ralph.sh   # make it executable (one-time)
@@ -32,7 +32,7 @@ chmod +x ralph.sh   # make it executable (one-time)
 
 ### What's inside `ralph.sh`
 
-At its core it's just a bash loop that runs your agent up to `MAX_ITERATIONS` times:
+At its core it's just a bash loop that runs a new agent session to read your prompt up to `MAX_ITERATIONS` times:
 
 ```bash
 for i in $(seq 1 $MAX_ITERATIONS); do
