@@ -1,6 +1,6 @@
 ---
 title: "Awesome resources"
-date: 2026-08-23
+date: 2026-08-27
 categories: [Resources]
 draft: false
 slug: awesome-resources
@@ -31,6 +31,7 @@ slug: awesome-resources
 
 ### 🎓 Articles
 - [Famous Deep Learning Papers](https://papers.baulab.info/)
+- [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 
 ### 🪛 Good to know :)
 - [Explain bash](https://explainshell.com/)
