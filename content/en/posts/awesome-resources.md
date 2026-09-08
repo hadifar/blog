@@ -8,6 +8,7 @@ slug: awesome-resources
 
 ### 🎓 Courses
 - [The Modern Software Developer By Stanford (CS146S)](https://themodernsoftware.dev/)
+- [AI Agents by CMU (11-768)](https://www.cmu-agents.com/)
 
 ### 📚 Books
 - [AI Engineering by Chip Huyen](https://huyenchip.com/books/)
