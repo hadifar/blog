@@ -36,3 +36,6 @@ slug: awesome-resources
 
 ### 🪛 Good to know :)
 - [Explain bash](https://explainshell.com/)
+
+### 🌍 Beyond Tech
+- [Richard Feynman — "Cargo Cult Science"](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
